@@ -1,6 +1,8 @@
 # Module 3 – Excel Overview & Interface
 
-![Excel Interface Overview](../EXCEL/ASSETS/EXCEL_INTERFACE.png)
+<p align="center">
+  <img src="ASSETS/EXCEL_INTERFACE.png" alt="Excel Interface" width="800" style="border:2px solid #000;">
+</p>
 
 ## Excel Interface Overview
 
