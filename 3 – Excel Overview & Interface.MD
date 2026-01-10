@@ -1,6 +1,6 @@
 # Module 3 – Excel Overview & Interface
 
-![Excel Interface Overview](ASSETS/EXCEL_INTERFACE.png.png)
+![Excel Interface Overview](../EXCEL/ASSETS/EXCEL_INTERFACE.png)
 
 ## Excel Interface Overview
 
