@@ -1,0 +1,51 @@
+OrderID,Date,CustomerType,Product,Category,Quantity,UnitPrice,PaymentMethod
+1001,21-Jan,Member,Keyboard,IT,2,50,Credit Card
+1002,05-Jan,Member,Mouse,IT,1,25,Credit Card
+1003,03-Jan,Member,Earbuds,Audio,5,120,Credit Card
+1004,18-Jan,Member,Smartphone,Mobile,4,800,Cash
+1005,09-Jan,Member,Earbuds,Audio,4,120,PayPal
+1006,09-Jan,Member,Bluetooth Speaker,Audio,1,80,Credit Card
+1007,13-Jan,Member,Fitness Tracker,Wearable,5,100,PayPal
+1008,26-Jan,Member,Phone Case,Mobile,1,20,PayPal
+1009,03-Jan,Guest,Smartwatch,Wearable,1,250,Credit Card
+1010,22-Jan,Member,Smartwatch,Wearable,2,250,Credit Card
+1011,13-Jan,Guest,Phone Case,Mobile,3,20,Credit Card
+1012,12-Jan,Guest,Earbuds,Audio,3,120,Cash
+1013,30-Jan,Member,Earbuds,Audio,2,120,Credit Card
+1014,15-Jan,Guest,Smartwatch,Wearable,3,250,Credit Card
+1015,08-Jan,Member,Fitness Tracker,Wearable,3,100,Credit Card
+1016,07-Jan,Guest,Earbuds,Audio,4,120,PayPal
+1017,29-Jan,Guest,Bluetooth Speaker,Audio,2,80,Credit Card
+1018,24-Jan,Guest,Phone Case,Mobile,4,20,PayPal
+1019,08-Jan,Member,Smartphone,Mobile,1,800,Credit Card
+1020,05-Jan,Member,Phone Case,Mobile,1,20,PayPal
+1021,13-Jan,Guest,Smartwatch,Wearable,1,250,Cash
+1022,29-Jan,Guest,Smartwatch,Wearable,3,250,PayPal
+1023,06-Jan,Guest,Keyboard,IT,5,50,Credit Card
+1024,17-Jan,Member,Smartwatch,Wearable,2,250,PayPal
+1025,25-Jan,Member,Keyboard,IT,4,50,Credit Card
+1026,04-Jan,Guest,Smartwatch,Wearable,1,250,Credit Card
+1027,29-Jan,Member,Mouse,IT,1,25,Cash
+1028,25-Jan,Member,Earbuds,Audio,4,120,Cash
+1029,06-Jan,Guest,Smartphone,Mobile,5,800,Cash
+1030,23-Jan,Member,Fitness Tracker,Wearable,3,100,PayPal
+1031,29-Jan,Guest,Tablet,IT,2,400,Credit Card
+1032,11-Jan,Member,Earbuds,Audio,2,120,Credit Card
+1033,03-Jan,Member,Headphones,Audio,1,150,PayPal
+1034,03-Jan,Member,Fitness Tracker,Wearable,2,100,Cash
+1035,05-Jan,Guest,Bluetooth Speaker,Audio,4,80,Credit Card
+1036,04-Jan,Member,Charger,Mobile,4,30,PayPal
+1037,15-Jan,Member,Laptop,IT,4,1200,Cash
+1038,11-Jan,Member,Headphones,Audio,2,150,Cash
+1039,15-Jan,Member,Smartphone,Mobile,3,800,PayPal
+1040,08-Jan,Member,Phone Case,Mobile,1,20,Credit Card
+1041,21-Jan,Member,Tablet,IT,2,400,PayPal
+1042,16-Jan,Guest,Bluetooth Speaker,Audio,1,80,Credit Card
+1043,13-Jan,Member,Charger,Mobile,4,30,PayPal
+1044,14-Jan,Guest,Headphones,Audio,3,150,Credit Card
+1045,31-Jan,Member,Keyboard,IT,1,50,Credit Card
+1046,19-Jan,Guest,Headphones,Audio,0,150,Cash
+1047,03-Jan,Member,Laptop,IT,2,1200,PayPal
+1048,04-Jan,Member,Laptop,IT,4,1200,Cash
+1049,19-Jan,Guest,Smartwatch,Wearable,3,250,Credit Card
+1050,09-Jan,Guest,Earbuds,Audio,3,120,PayPal
