@@ -1,0 +1,51 @@
+Student_ID,Student_Name,Attendance_%,Midterm_Score,Final_Score,Assignment_Status,Total_Avg
+STU_01,Aarav Sharma,95,88,92,Completed,90
+STU_02,Isha Gupta,72,45,55,Pending,50
+STU_03,Rohan Verma,85,78,82,Completed,80
+STU_04,Ananya Iyer,60,35,40,Not Submitted,37.5
+STU_05,Vihaan Reddy,92,95,98,Completed,96.5
+STU_06,Meera Nair,78,62,70,Pending,66
+STU_07,Arjun Singh,88,55,58,Completed,56.5
+STU_08,Sai Patil,45,30,25,Not Submitted,27.5
+STU_09,Diya Joshi,98,91,94,Completed,92.5
+STU_10,Kabir Malhotra,81,74,76,Pending,75
+STU_11,Zoya Khan,70,48,52,Completed,50
+STU_12,Aryan Dev,94,85,89,Completed,87
+STU_13,Riya Sen,65,42,48,Not Submitted,45
+STU_14,Devansh Roy,89,77,81,Completed,79
+STU_15,Sanvi Hegde,76,66,64,Pending,65
+STU_16,Ishan Bhat,91,92,95,Completed,93.5
+STU_17,Tara Singh,55,33,38,Not Submitted,35.5
+STU_18,Yash Birla,84,71,73,Completed,72
+STU_19,Myra Kapur,97,88,90,Completed,89
+STU_20,Vivaan Jha,74,58,60,Pending,59
+STU_21,Rahul Dravid,93,94,96,Completed,95
+STU_22,Priya Mani,68,49,51,Not Submitted,50
+STU_23,Sameer Ali,82,75,77,Completed,76
+STU_24,Neha Kakkar,90,82,84,Completed,83
+STU_25,Amit Shah,40,28,32,Not Submitted,30
+STU_26,Sonia Gandhi,87,68,72,Pending,70
+STU_27,Rajat Tokas,79,63,65,Completed,64
+STU_28,Pooja Hegde,95,89,91,Completed,90
+STU_29,Varun Dhawan,63,39,42,Not Submitted,40.5
+STU_30,Kiara Advani,88,76,80,Completed,78
+STU_31,Sidharth M,73,54,56,Pending,55
+STU_32,Alia Bhatt,96,97,99,Completed,98
+STU_33,Ranbir K,58,36,39,Not Submitted,37.5
+STU_34,Shraddha K,85,74,78,Completed,76
+STU_35,Vicky Kaushal,81,69,71,Pending,70
+STU_36,Katrina Kaif,92,86,88,Completed,87
+STU_37,Ranveer S,67,45,47,Not Submitted,46
+STU_38,Deepika P,94,90,93,Completed,91.5
+STU_39,Akshay Kumar,99,98,99,Completed,98.5
+STU_40,Salman Khan,50,25,22,Not Submitted,23.5
+STU_41,Hrithik R,86,79,83,Completed,81
+STU_42,Tiger Shroff,75,60,62,Pending,61
+STU_43,Kriti Sanon,91,84,87,Completed,85.5
+STU_44,Kartik A,69,47,49,Not Submitted,48
+STU_45,Sara Ali,83,72,75,Completed,73.5
+STU_46,Jhanvi K,77,64,66,Pending,65
+STU_47,Ananya P,93,88,92,Completed,90
+STU_48,Ishaan K,61,34,36,Not Submitted,35
+STU_49,Rashmika M,89,78,80,Completed,79
+STU_50,Vijay D,80,67,69,Pending,68
