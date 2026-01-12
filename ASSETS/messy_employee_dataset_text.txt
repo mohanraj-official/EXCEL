@@ -1,0 +1,51 @@
+EmployeeID,FullName,Department_Code,Email_Address,JoinDate_Raw
+1,  james bond  ,IT_SEC-2024,j.bond@company.com,01-Jan-2024
+2,mary JANE,HR_RECR-2023,M.JANE@COMPANY.COM,15-Feb-2023
+3, robert  brown,SALES_MGR-2022,r.brown@company.com,10-Mar-2022
+4,patricia_williams,IT_DEV-2024,p.williams@company.com,05-Apr-2024
+5,MICHAEL  jordan,MKT_SMM-2021,m.jordan@company.com,12-May-2021
+6,linda taylor,HR_RECR-2023,l.taylor@gmail.com,20-Jun-2023
+7, BARBARA smith ,SALES_DIR-2020,b.smith@company.com,01-Jul-2020
+8,William.Wilson,IT_SUP-2024,w.wilson@outlook.com,15-Aug-2024
+9,ELIZABETH davis,MKT_SEO-2022,e.davis@company.com,30-Sep-2022
+10, richard  miller,SALES_MGR-2021,r.miller@company.com,12-Oct-2021
+11,SUSAN_MOORE,HR_ADM-2024,s.moore@company.com,11-Nov-2024
+12,joseph  ANDerson,IT_DEV-2023,j.anderson@company.com,25-Dec-2023
+13, THOMAS  TAYLOR,MKT_DIR-2022,t.taylor@company.com,05-Jan-2022
+14,sarah_connor,IT_SEC-2024,s.connor@sky.net,14-Feb-2024
+15, CHARLES  white,SALES_REP-2023,c.white@company.com,19-Mar-2023
+16,Christopher_Lee,HR_TRN-2021,c.lee@company.com,22-Apr-2021
+17, DANIEL  harris,IT_SUP-2022,d.harris@company.com,30-May-2022
+18,matthew  LEWIS,MKT_SMM-2024,m.lewis@company.com,08-Jun-2024
+19, ANTHONY  clark,SALES_MGR-2023,a.clark@company.com,17-Jul-2023
+20,MARK  robinson,HR_RECR-2024,m.robinson@company.com,29-Aug-2024
+21, donald  walker,IT_DEV-2022,d.walker@company.com,03-Sep-2022
+22,Steven_Young,MKT_SEO-2021,s.young@company.com,14-Oct-2021
+23, paul  KING,SALES_DIR-2024,p.king@company.com,21-Nov-2024
+24,Andrew_Wright,HR_ADM-2023,a.wright@company.com,12-Dec-2023
+25, KENNETH  hill,IT_SEC-2024,k.hill@company.com,01-Jan-2024
+26,Joshua_Scott,MKT_DIR-2022,j.scott@company.com,15-Feb-2022
+27, KEVIN  green,SALES_REP-2021,k.green@company.com,10-Mar-2021
+28,brian  ADAMS,HR_TRN-2023,b.adams@company.com,05-Apr-2023
+29, george  BAKER,IT_SUP-2024,g.baker@company.com,12-May-2024
+30,EDWARD  hall,MKT_SMM-2022,e.hall@company.com,20-Jun-2022
+31, RONALD  rivera,SALES_MGR-2024,r.rivera@company.com,01-Jul-2024
+32,Timothy_Campbell,HR_RECR-2021,t.campbell@company.com,15-Aug-2021
+33, JASON  mitchell,IT_DEV-2023,j.mitchell@company.com,30-Sep-2023
+34,Jeffrey_Carter,MKT_SEO-2024,j.carter@company.com,12-Oct-2024
+35, RYAN  roberts,SALES_DIR-2022,r.roberts@company.com,11-Nov-2022
+36,Jacob_Gomez,HR_ADM-2024,j.gomez@company.com,25-Dec-2024
+37, GARY  phillips,IT_SEC-2021,g.phillips@company.com,05-Jan-2021
+38,Nicholas_Evans,MKT_DIR-2023,n.evans@company.com,14-Feb-2023
+39, ERIC  turner,SALES_REP-2024,e.turner@company.com,19-Mar-2024
+40,Stephen_Torres,HR_TRN-2022,s.torres@company.com,22-Apr-2022
+41, Jonathan  parker,IT_SUP-2023,j.parker@company.com,30-May-2023
+42,Larry_Collins,MKT_SMM-2021,l.collins@company.com,08-Jun-2021
+43, JUSTIN  edwards,SALES_MGR-2024,j.edwards@company.com,17-Jul-2024
+44,Scott_Stewart,HR_RECR-2022,s.stewart@company.com,29-Aug-2022
+45, Brandon  flores,IT_DEV-2023,b.flores@company.com,03-Sep-2023
+46,Frank_Morris,MKT_SEO-2024,f.morris@company.com,14-Oct-2024
+47, BENJAMIN  nguyen,SALES_DIR-2021,b.nguyen@company.com,21-Nov-2021
+48,Gregory_Murphy,HR_ADM-2023,g.murphy@company.com,12-Dec-2023
+49, SAMUEL  rivera,IT_SEC-2024,s.rivera@company.com,01-Jan-2024
+50,Raymond_Cook,MKT_DIR-2022,r.cook@company.com,15-Feb-2022

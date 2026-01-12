@@ -1,0 +1,51 @@
+Player_ID,Player_Identity,Team_Region,Career_Stat_Code,Social_Handle
+101, virat KOHLI ,IND_BAT-2008,RUNS:12898,@vkohli_OFFICIAL
+102,ms DHONI,IND_WK-2004,RUNS:10773,@msd_finisher
+103, steve  smith,AUS_BAT-2010,RUNS:09123,@s_smith_32
+104,kane_williamson,NZ_BAT-2011,RUNS:08263,@kane_w_nz
+105,BABAR  azam,PAK_BAT-2015,RUNS:05412,@babar_king
+106,joe root,ENG_BAT-2012,RUNS:11416,@j_root_123
+107, ROHIT sharma ,IND_BAT-2007,RUNS:10709,@hitman_45
+108,Quinton.deKock,SA_WK-2012,RUNS:06123,@q_dekock_sa
+109,DAVID warner,AUS_BAT-2009,RUNS:08487,@d_warner_bull
+110, ben  stokes,ENG_AR-2013,RUNS:05234,@b_stokes_all
+111,RASHID_KHAN,AFG_BWL-2015,RUNS:01200,@rashid_magic
+112,glenn  MAXwell,AUS_AR-2012,RUNS:03450,@g_maxi_show
+113, SHAKIB  al hasan,BAN_AR-2006,RUNS:07234,@shakib_75
+114,jos_buttler,ENG_WK-2011,RUNS:04823,@jos_the_boss
+115, CHRIS  gayle,WI_BAT-1999,RUNS:10480,@universal_boss
+116,Mitchell_Starc,AUS_BWL-2010,RUNS:00560,@m_starc_quick
+117, TRENT  boult,NZ_BWL-2011,RUNS:00210,@t_boult_swing
+118,jasprit  BUMrah,IND_BWL-2016,RUNS:00150,@j_bumrah_93
+119, PAT  cummins,AUS_BWL-2011,RUNS:01230,@p_cummins_30
+120,KAGISO  rabada,SA_BWL-2014,RUNS:00450,@k_rabada_sa
+121, surya  yadav,IND_BAT-2021,RUNS:02340,@sky_360_ind
+122,Hardik_Pandya,IND_AR-2016,RUNS:01780,@hp_kungfu
+123, paul  STIRling,IRE_BAT-2008,RUNS:05412,@p_stirling_ire
+124,Nicholas_Pooran,WI_WK-2016,RUNS:02120,@n_pooran_west
+125, TRAVIS  head,AUS_BAT-2016,RUNS:02450,@t_head_lefty
+126,Aiden_Markram,SA_BAT-2017,RUNS:01900,@a_markram_sa
+127, REZA  hendricks,SA_BAT-2014,RUNS:01600,@r_hendricks_sa
+128,daryl  MITchell,NZ_AR-2019,RUNS:01450,@d_mitch_nz
+129, glenn  PHILLIPS,NZ_WK-2017,RUNS:01300,@g_phillips_nz
+130,MOHAMMAD  rizwan,PAK_WK-2015,RUNS:03120,@m_rizwan_pak
+131, SHAHEEN  afridi,PAK_BWL-2018,RUNS:00180,@s_afridi_10
+132,Pathum_Nissanka,SL_BAT-2021,RUNS:01750,@p_nissanka_sl
+133, KUSAL  mendis,SL_WK-2015,RUNS:03450,@k_mendis_sl
+134,Wanindu_Hasaranga,SL_AR-2017,RUNS:00980,@w_hasaranga_sl
+135, RYAN  burl,ZIM_AR-2017,RUNS:00890,@r_burl_zim
+136,Sikandar_Raza,ZIM_AR-2013,RUNS:04120,@s_raza_zim
+137, GARY  ballance,ZIM_BAT-2013,RUNS:01560,@g_ballance_zim
+138,Harry_Brook,ENG_BAT-2022,RUNS:00900,@h_brook_eng
+139, LIAM  livingstone,ENG_AR-2017,RUNS:00670,@l_livy_all
+140,Sam_Curran,ENG_AR-2018,RUNS:00450,@s_curran_58
+141, Litton  das,BAN_WK-2015,RUNS:02450,@l_das_ban
+142,Mahmudullah_Riyad,BAN_AR-2007,RUNS:05230,@m_riyad_77
+143, MUSTAFIZUR  rahman,BAN_BWL-2015,RUNS:00090,@m_rahman_fizz
+144,Naveen_ul_haq,AFG_BWL-2016,RUNS:00050,@n_ul_haq_afg
+145, Mujeeb  ur rahman,AFG_BWL-2017,RUNS:00120,@m_ur_rahman
+146,Kyle_Mayers,WI_AR-2020,RUNS:00780,@k_mayers_wi
+147, SHAI  hope,WI_WK-2015,RUNS:04560,@s_hope_wi
+148,Alzarri_Joseph,WI_BWL-2016,RUNS:00230,@a_joseph_wi
+149, TIM  southee,NZ_BWL-2008,RUNS:00750,@t_southee_38
+150,Ish_Sodhi,NZ_BWL-2013,RUNS:00340,@i_sodhi_nz

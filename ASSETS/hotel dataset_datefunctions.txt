@@ -1,0 +1,26 @@
+Booking_ID,Customer_Name,City,Hotel_Name,Room_Type,Check_In_Date,Check_Out_Date,Total_Amount
+B001,Ravi Kumar,Chennai,Saravana Bhavan,Deluxe,01-01-2025,03-01-2025,4500
+B002,Anitha Rao,Bengaluru,CTR Grand,Standard,02-01-2025,04-01-2025,3200
+B003,Suresh Iyer,Coimbatore,Annapoorna,Suite,01-01-2025,05-01-2025,8800
+B004,Meena Devi,Madurai,Amma Mess,Standard,03-01-2025,04-01-2025,1800
+B005,Karthik R,Chennai,Murugan Idli Shop,Deluxe,04-01-2025,06-01-2025,5200
+B006,Priya Nair,Kochi,Dhe Puttu,Standard,02-01-2025,03-01-2025,2100
+B007,Arjun Menon,Trivandrum,Villa Maya,Suite,01-01-2025,04-01-2025,9600
+B008,Lakshmi S,Salem,A2B,Standard,05-01-2025,06-01-2025,1700
+B009,Manoj P,Bengaluru,CTR Grand,Deluxe,06-01-2025,08-01-2025,5400
+B010,Divya R,Chennai,Saravana Bhavan,Suite,05-01-2025,09-01-2025,11200
+B011,Ajay Kumar,Tiruchy,Banana Leaf,Standard,02-01-2025,03-01-2025,1600
+B012,Revathi M,Erode,Annapoorna,Deluxe,03-01-2025,05-01-2025,4600
+B013,Nithin S,Mysuru,Vinayaka Mylari,Standard,04-01-2025,05-01-2025,1900
+B014,Shalini K,Chennai,Murugan Idli Shop,Standard,06-01-2025,07-01-2025,2000
+B015,Prakash V,Coimbatore,Annapoorna,Suite,07-01-2025,10-01-2025,10500
+B016,Geetha R,Madurai,Amma Mess,Deluxe,05-01-2025,07-01-2025,4200
+B017,Santhosh P,Bengaluru,CTR Grand,Suite,08-01-2025,12-01-2025,12000
+B018,Kavya N,Kochi,Dhe Puttu,Deluxe,06-01-2025,08-01-2025,4800
+B019,Ramesh G,Salem,A2B,Standard,07-01-2025,08-01-2025,1750
+B020,Pooja I,Chennai,Saravana Bhavan,Deluxe,09-01-2025,11-01-2025,5100
+B021,Sivakumar D,Trichy,Banana Leaf,Standard,08-01-2025,09-01-2025,1650
+B022,Neethu M,Trivandrum,Villa Maya,Suite,10-01-2025,14-01-2025,13200
+B023,Vignesh R,Erode,Annapoorna,Standard,09-01-2025,10-01-2025,1800
+B024,Anand B,Mysuru,Vinayaka Mylari,Deluxe,10-01-2025,12-01-2025,4500
+B025,Swetha P,Chennai,Murugan Idli Shop,Suite,11-01-2025,15-01-2025,10800

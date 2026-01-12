@@ -1,0 +1,51 @@
+Employee_ID,Employee_Name,Department,Job_Role,Location,Date_of_Joining,Employment_Type,Monthly_Salary
+Z001,Arun Kumar,Engineering,Software Engineer,Chennai,15-06-2019,Full-Time,65000
+Z002,Priya Sharma,HR,HR Executive,Chennai,20-08-2020,Full-Time,42000
+Z003,Rahul Mehta,Finance,Accounts Analyst,Bengaluru,10-01-2018,Full-Time,58000
+Z004,Sneha Iyer,Marketing,Digital Marketer,Chennai,05-03-2021,Full-Time,48000
+Z005,Vignesh R,Engineering,Backend Developer,Chennai,12-07-2017,Full-Time,72000
+Z006,Anitha Rao,Sales,Sales Executive,Hyderabad,18-11-2020,Full-Time,45000
+Z007,Karthik S,Engineering,Frontend Developer,Bengaluru,25-02-2019,Full-Time,68000
+Z008,Divya Nair,Support,Customer Support,Kochi,09-09-2021,Full-Time,38000
+Z009,Manoj P,Engineering,QA Engineer,Chennai,30-06-2018,Full-Time,60000
+Z010,Pooja Verma,HR,Recruiter,Noida,14-01-2022,Full-Time,40000
+Z011,Suresh K,Finance,Finance Executive,Chennai,22-05-2016,Full-Time,70000
+Z012,Neethu Menon,Marketing,Content Writer,Kochi,19-04-2021,Contract,35000
+Z013,Ramesh G,Sales,Account Manager,Bengaluru,11-10-2017,Full-Time,62000
+Z014,Swetha P,Engineering,DevOps Engineer,Chennai,08-08-2019,Full-Time,75000
+Z015,Ajay Singh,Support,Technical Support,Noida,17-12-2020,Full-Time,39000
+Z016,Kavya R,HR,HR Analyst,Bengaluru,03-03-2018,Full-Time,46000
+Z017,Santhosh M,Engineering,Data Analyst,Chennai,27-06-2021,Full-Time,55000
+Z018,Meena Devi,Finance,Audit Associate,Madurai,15-09-2019,Full-Time,52000
+Z019,Nithin S,Sales,Business Development Executive,Bengaluru,21-01-2022,Full-Time,43000
+Z020,Lakshmi V,Support,Customer Success,Chennai,06-05-2020,Full-Time,41000
+Z021,Prakash D,Engineering,System Administrator,Chennai,10-11-2016,Full-Time,78000
+Z022,Anand B,Marketing,SEO Specialist,Bengaluru,02-02-2021,Full-Time,47000
+Z023,Revathi M,Finance,Payroll Executive,Erode,18-07-2018,Full-Time,50000
+Z024,Harish K,Engineering,Mobile App Developer,Chennai,29-04-2019,Full-Time,69000
+Z025,Shalini N,HR,Training Coordinator,Chennai,07-06-2020,Full-Time,44000
+Z026,Vinoth R,Sales,Regional Sales Manager,Coimbatore,13-03-2017,Full-Time,85000
+Z027,Pavithra S,Support,Helpdesk Analyst,Bengaluru,24-08-2021,Full-Time,36000
+Z028,Saravanan T,Engineering,Cloud Engineer,Chennai,16-12-2018,Full-Time,80000
+Z029,Keerthana I,Marketing,Brand Executive,Chennai,09-01-2022,Full-Time,42000
+Z030,Deepak J,Finance,Financial Planner,Bengaluru,05-05-2016,Full-Time,76000
+Z031,Mohan R,Engineering,AI Engineer,Chennai,19-09-2020,Full-Time,90000
+Z032,Preethi K,HR,Employee Relations Officer,Chennai,23-11-2019,Full-Time,48000
+Z033,Surya P,Sales,Inside Sales Executive,Hyderabad,14-02-2021,Full-Time,40000
+Z034,Anjali S,Support,Service Coordinator,Noida,08-07-2020,Contract,34000
+Z035,Balaji V,Engineering,Security Analyst,Chennai,26-03-2018,Full-Time,82000
+Z036,Ritu Malhotra,Marketing,Campaign Manager,Delhi,17-06-2017,Full-Time,65000
+Z037,Kiran N,Finance,Tax Consultant,Bengaluru,12-10-2019,Full-Time,68000
+Z038,Yamini L,HR,Compensation Analyst,Chennai,28-02-2021,Full-Time,50000
+Z039,Sathish A,Engineering,Network Engineer,Chennai,09-08-2016,Full-Time,77000
+Z040,Pankaj S,Sales,Channel Partner Manager,Noida,01-04-2018,Full-Time,72000
+Z041,Monica R,Support,Client Support Lead,Bengaluru,15-01-2017,Full-Time,56000
+Z042,Gowtham K,Engineering,Full Stack Developer,Chennai,20-05-2019,Full-Time,74000
+Z043,Nandhini P,Marketing,Social Media Analyst,Chennai,04-09-2021,Full-Time,39000
+Z044,Joseph M,Finance,Cost Analyst,Kochi,27-11-2018,Full-Time,61000
+Z045,Tejaswini S,HR,Talent Acquisition Lead,Bengaluru,13-07-2016,Full-Time,78000
+Z046,Rajesh V,Engineering,Product Engineer,Chennai,22-10-2020,Full-Time,71000
+Z047,Smitha N,Support,Operations Support,Trivandrum,06-02-2021,Full-Time,37000
+Z048,Imran K,Sales,Enterprise Sales Consultant,Mumbai,30-03-2017,Full-Time,88000
+Z049,Priyanka D,Marketing,Market Research Analyst,Pune,11-12-2019,Full-Time,53000
+Z050,Aravind S,Engineering,Technical Architect,Chennai,18-01-2015,Full-Time,110000
