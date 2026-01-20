@@ -1,0 +1,101 @@
+RecordID,Date,Time,Region,Country,Category,SubCategory,Product,UnitsSold,Revenue,Cost,Profit,DiscountPercent,CustomerRating,DeliveryDays
+1,2025-01-01,09:00,South,India,Electronics,Mobile,Phone A,12,240000,180000,60000,5.0,4.5,3
+2,2025-01-02,10:00,South,India,Electronics,Laptop,Laptop A,5,350000,290000,60000,7.5,4.2,5
+3,2025-01-03,11:00,North,India,Furniture,Chair,Chair A,20,80000,50000,30000,10.0,4.0,4
+4,2025-01-04,12:00,East,India,Furniture,Table,Table A,8,96000,70000,26000,6.0,3.8,6
+5,2025-01-05,13:00,West,India,Office Supplies,Paper,A4 Paper,50,25000,18000,7000,2.0,4.6,2
+6,2025-01-06,14:00,South,India,Office Supplies,Pen,Pen A,100,20000,12000,8000,3.0,4.1,1
+7,2025-01-07,15:00,North,India,Electronics,Mobile,Phone B,10,220000,170000,50000,4.0,4.4,3
+8,2025-01-08,16:00,East,India,Electronics,Laptop,Laptop B,4,320000,270000,50000,8.0,4.3,5
+9,2025-01-09,17:00,West,India,Furniture,Chair,Chair B,18,72000,48000,24000,9.0,3.9,4
+10,2025-01-10,18:00,South,India,Furniture,Table,Table B,6,84000,62000,22000,5.0,4.0,6
+11,2025-01-11,09:30,North,India,Electronics,Mobile,Phone C,14,280000,210000,70000,6.0,4.6,3
+12,2025-01-12,10:30,East,India,Electronics,Laptop,Laptop C,3,270000,230000,40000,7.0,4.1,6
+13,2025-01-13,11:30,West,India,Office Supplies,Paper,Letter Paper,60,30000,21000,9000,2.5,4.7,2
+14,2025-01-14,12:30,South,India,Office Supplies,Pen,Pen B,120,24000,15000,9000,3.5,4.2,1
+15,2025-01-15,13:30,North,India,Furniture,Chair,Chair C,22,88000,56000,32000,8.0,4.3,4
+16,2025-01-16,14:30,East,India,Furniture,Table,Table C,7,105000,75000,30000,4.5,3.9,6
+17,2025-01-17,15:30,West,India,Electronics,Mobile,Phone D,9,198000,150000,48000,5.0,4.2,3
+18,2025-01-18,16:30,South,India,Electronics,Laptop,Laptop D,5,400000,320000,80000,6.0,4.5,5
+19,2025-01-19,17:30,North,India,Office Supplies,Paper,Legal Paper,45,22500,16000,6500,1.5,4.4,2
+20,2025-01-20,09:00,East,India,Office Supplies,Pen,Pen C,110,22000,14000,8000,3.0,4.1,1
+21,2025-01-21,10:00,West,India,Furniture,Chair,Chair D,15,60000,40000,20000,10.0,4.0,4
+22,2025-01-22,11:00,South,India,Furniture,Table,Table D,8,120000,90000,30000,7.0,4.1,6
+23,2025-01-23,12:00,North,India,Electronics,Mobile,Phone E,11,242000,190000,52000,4.0,4.5,3
+24,2025-01-24,13:00,East,India,Electronics,Laptop,Laptop E,4,360000,300000,60000,8.0,4.3,5
+25,2025-01-25,14:00,West,India,Office Supplies,Paper,Note Pad,80,16000,10000,6000,2.0,4.8,2
+26,2025-01-26,15:00,South,India,Office Supplies,Pen,Marker A,90,18000,11000,7000,4.0,4.2,1
+27,2025-01-27,16:00,North,India,Furniture,Chair,Chair E,19,76000,50000,26000,9.0,3.8,4
+28,2025-01-28,17:00,East,India,Furniture,Table,Table E,6,90000,65000,25000,6.0,4.0,6
+29,2025-01-29,09:30,West,India,Electronics,Mobile,Phone F,13,260000,200000,60000,5.5,4.4,3
+30,2025-01-30,10:30,South,India,Electronics,Laptop,Laptop F,3,300000,250000,50000,7.0,4.2,5
+31,2025-02-01,11:30,North,India,Office Supplies,Paper,Glossy Paper,35,17500,12000,5500,3.0,4.5,2
+32,2025-02-02,12:30,East,India,Office Supplies,Pen,Marker B,75,15000,9000,6000,2.5,4.1,1
+33,2025-02-03,13:30,West,India,Furniture,Chair,Chair F,21,84000,60000,24000,8.0,4.1,4
+34,2025-02-04,14:30,South,India,Furniture,Table,Table F,5,75000,55000,20000,5.0,3.9,6
+35,2025-02-05,15:30,North,India,Electronics,Mobile,Phone G,10,210000,160000,50000,4.5,4.3,3
+36,2025-02-06,16:30,East,India,Electronics,Laptop,Laptop G,4,380000,310000,70000,6.0,4.4,5
+37,2025-02-07,17:30,West,India,Office Supplies,Paper,Card Stock,25,12500,8000,4500,2.0,4.6,2
+38,2025-02-08,09:00,South,India,Office Supplies,Pen,Highlighter,85,17000,10000,7000,3.5,4.3,1
+39,2025-02-09,10:00,North,India,Furniture,Chair,Chair G,17,68000,45000,23000,10.0,4.0,4
+40,2025-02-10,11:00,East,India,Furniture,Table,Table G,7,112000,85000,27000,7.5,4.1,6
+41,2025-02-11,12:00,West,India,Electronics,Mobile,Phone H,15,300000,230000,70000,5.0,4.7,3
+42,2025-02-12,13:00,South,India,Electronics,Laptop,Laptop H,5,450000,380000,70000,6.5,4.3,5
+43,2025-02-13,14:00,North,India,Office Supplies,Paper,Photo Paper,20,10000,6000,4000,4.0,4.4,2
+44,2025-02-14,15:00,East,India,Office Supplies,Pen,Gel Pen,130,26000,18000,8000,3.0,4.2,1
+45,2025-02-15,16:00,West,India,Furniture,Chair,Chair H,14,56000,38000,18000,9.0,3.9,4
+46,2025-02-16,17:00,South,India,Furniture,Table,Table H,9,153000,120000,33000,5.5,4.2,6
+47,2025-02-17,09:30,North,India,Electronics,Mobile,Phone I,12,240000,185000,55000,4.0,4.5,3
+48,2025-02-18,10:30,East,India,Electronics,Laptop,Laptop I,4,340000,280000,60000,7.0,4.1,5
+49,2025-02-19,11:30,West,India,Office Supplies,Paper,Binder Paper,55,27500,19000,8500,2.0,4.6,2
+50,2025-02-20,12:30,South,India,Office Supplies,Pen,Rollerball,95,19000,12000,7000,3.5,4.3,1
+51,2025-02-21,13:30,North,India,Furniture,Chair,Chair I,20,80000,55000,25000,8.5,4.0,4
+52,2025-02-22,14:30,East,India,Furniture,Table,Table I,6,90000,68000,22000,6.0,3.8,6
+53,2025-02-23,15:30,West,India,Electronics,Mobile,Phone J,14,280000,220000,60000,5.0,4.6,3
+54,2025-02-24,16:30,South,India,Electronics,Laptop,Laptop J,5,375000,310000,65000,7.5,4.2,5
+55,2025-02-25,17:30,North,India,Office Supplies,Paper,A4 Paper,52,26000,18500,7500,2.0,4.6,2
+56,2025-02-26,09:00,East,India,Office Supplies,Pen,Pen A,105,21000,13000,8000,3.0,4.1,1
+57,2025-02-27,10:00,West,India,Furniture,Chair,Chair A,22,88000,55000,33000,10.0,4.0,4
+58,2025-02-28,11:00,South,India,Furniture,Table,Table A,10,120000,90000,30000,6.0,3.8,6
+59,2025-03-01,12:00,North,India,Electronics,Mobile,Phone B,11,242000,190000,52000,4.0,4.4,3
+60,2025-03-02,13:00,East,India,Electronics,Laptop,Laptop B,5,400000,340000,60000,8.0,4.3,5
+61,2025-03-03,14:00,West,India,Office Supplies,Paper,Letter Paper,65,32500,22000,10500,2.5,4.7,2
+62,2025-03-04,15:00,South,India,Office Supplies,Pen,Pen B,130,26000,16000,10000,3.5,4.2,1
+63,2025-03-05,16:00,North,India,Furniture,Chair,Chair B,20,80000,54000,26000,9.0,3.9,4
+64,2025-03-06,17:00,East,India,Furniture,Table,Table B,7,98000,72000,26000,5.0,4.0,6
+65,2025-03-07,09:30,West,India,Electronics,Mobile,Phone C,16,320000,240000,80000,6.0,4.6,3
+66,2025-03-08,10:30,South,India,Electronics,Laptop,Laptop C,4,360000,300000,60000,7.0,4.1,5
+67,2025-03-09,11:30,North,India,Office Supplies,Paper,Legal Paper,50,25000,18000,7000,1.5,4.4,2
+68,2025-03-10,12:30,East,India,Office Supplies,Pen,Pen C,115,23000,15000,8000,3.0,4.1,1
+69,2025-03-11,13:30,West,India,Furniture,Chair,Chair C,24,96000,60000,36000,8.0,4.3,4
+70,2025-03-12,14:30,South,India,Furniture,Table,Table C,8,120000,85000,35000,4.5,3.9,6
+71,2025-03-13,15:30,North,India,Electronics,Mobile,Phone D,10,220000,165000,55000,5.0,4.2,3
+72,2025-03-14,16:30,East,India,Electronics,Laptop,Laptop D,6,480000,380000,100000,6.0,4.5,5
+73,2025-03-15,17:30,West,India,Office Supplies,Paper,Note Pad,85,17000,11000,6000,2.0,4.8,2
+74,2025-03-16,09:00,South,India,Office Supplies,Pen,Marker A,95,19000,12000,7000,4.0,4.2,1
+75,2025-03-17,10:00,North,India,Furniture,Chair,Chair D,17,68000,45000,23000,10.0,4.0,4
+76,2025-03-18,11:00,East,India,Furniture,Table,Table D,9,135000,100000,35000,7.0,4.1,6
+77,2025-03-19,12:00,West,India,Electronics,Mobile,Phone E,12,264000,210000,54000,4.0,4.5,3
+78,2025-03-20,13:00,South,India,Electronics,Laptop,Laptop E,5,450000,380000,70000,8.0,4.3,5
+79,2025-03-21,14:00,North,India,Office Supplies,Paper,Glossy Paper,40,20000,14000,6000,3.0,4.5,2
+80,2025-03-22,15:00,East,India,Office Supplies,Pen,Marker B,80,16000,10000,6000,2.5,4.1,1
+81,2025-03-23,16:00,West,India,Furniture,Chair,Chair E,20,80000,55000,25000,9.0,3.8,4
+82,2025-03-24,17:00,South,India,Furniture,Table,Table E,7,105000,75000,30000,6.0,4.0,6
+83,2025-03-25,09:30,North,India,Electronics,Mobile,Phone F,14,280000,220000,60000,5.5,4.4,3
+84,2025-03-26,10:30,East,India,Electronics,Laptop,Laptop F,4,400000,330000,70000,7.0,4.2,5
+85,2025-03-27,11:30,West,India,Office Supplies,Paper,Card Stock,30,15000,10000,5000,2.0,4.6,2
+86,2025-03-28,12:30,South,India,Office Supplies,Pen,Highlighter,90,18000,11000,7000,3.5,4.3,1
+87,2025-03-29,13:30,North,India,Furniture,Chair,Chair F,22,88000,62000,26000,8.0,4.1,4
+88,2025-03-30,14:30,East,India,Furniture,Table,Table F,6,90000,65000,25000,5.0,3.9,6
+89,2025-03-31,15:30,West,India,Electronics,Mobile,Phone G,11,231000,175000,56000,4.5,4.3,3
+90,2025-04-01,16:30,South,India,Electronics,Laptop,Laptop G,5,475000,390000,85000,6.0,4.4,5
+91,2025-04-02,17:30,North,India,Office Supplies,Paper,Photo Paper,25,12500,8000,4500,4.0,4.4,2
+92,2025-04-03,09:00,East,India,Office Supplies,Pen,Gel Pen,140,28000,19000,9000,3.0,4.2,1
+93,2025-04-04,10:00,West,India,Furniture,Chair,Chair G,18,72000,48000,24000,10.0,4.0,4
+94,2025-04-05,11:00,South,India,Furniture,Table,Table G,8,128000,95000,33000,7.5,4.1,6
+95,2025-04-06,12:00,North,India,Electronics,Mobile,Phone H,16,320000,245000,75000,5.0,4.7,3
+96,2025-04-07,13:00,East,India,Electronics,Laptop,Laptop H,6,540000,450000,90000,6.5,4.3,5
+97,2025-04-08,14:00,West,India,Office Supplies,Paper,Legal Paper,70,42000,30000,12000,3.0,4.8,2
+98,2025-04-09,15:00,South,India,Office Supplies,Pen,Rollerball,100,20000,13000,7000,3.5,4.3,1
+99,2025-04-10,16:00,North,India,Furniture,Chair,Chair H,15,60000,42000,18000,9.0,3.9,4
+100,2025-04-11,17:00,East,India,Furniture,Table,Table H,10,150000,110000,40000,5.5,4.2,6
